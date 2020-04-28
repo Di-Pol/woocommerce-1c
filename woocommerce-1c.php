@@ -8,6 +8,8 @@ Author URI: mailto:mail@danil.mobi
 Plugin URI: 
 Text Domain: woocommerce-1c
 Domain Path: /languages
+GitHub Plugin URI: https://github.com/Di-Pol/woocommerce-1c
+GitHub Branch: master
 */
 
 if (!defined('ABSPATH')) exit;
